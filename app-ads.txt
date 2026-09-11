@@ -359,8 +359,9 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-OWNERDOMAIN=[yourdomain.com]
-ironsrc.com, [yourironSourcePublisherAccountID], Direct
+
+OWNERDOMAIN= https://praisymobile.github.io/
+ironsrc.com, 648645, Direct
 Remember to replace the OwnerDomain Line with your domain. 
 Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
 
