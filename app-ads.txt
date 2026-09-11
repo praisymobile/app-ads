@@ -1,5 +1,7 @@
 google.com, pub-8226306514086321, DIRECT, f08c47fec0942fa0
 vungle.com,6996f310814b9fb75403c695,DIRECT,c107d686becd2d77
+OWNERDOMAIN= https://praisymobile.github.io/
+ironsrc.com, 648645, Direct
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
 Contextweb.com,562852,RESELLER,89ff185a4c4e857c
 Media.net,8CU12AQ1Y,RESELLER
@@ -359,12 +361,6 @@ zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zmaticoo.com,5135302,RESELLER
 zoomd.com,88478941,RESELLER
-
-OWNERDOMAIN= https://praisymobile.github.io/
-ironsrc.com, 648645, Direct
-Remember to replace the OwnerDomain Line with your domain. 
-Remember to replace [yourironSourcePublisherAccountID] with your account ID, which you can get from your account manager.
-
 media.net, 8CUH2L333, RESELLER
 sharethrough.com, 3817, RESELLER, d53b998a7bd4ecd2
 playdigo.com, 1956, RESELLER
@@ -489,4 +485,3 @@ openx.com, 561436793, RESELLER, 6a698e2ec38604c6
 xandr.com, 16856, RESELLER
 bigo.sg, 7id17wm5ly, RESELLER
 openx.com, 561470659, RESELLER, 6a698e2ec38604c6
-
